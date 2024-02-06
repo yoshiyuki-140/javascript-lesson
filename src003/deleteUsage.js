@@ -36,5 +36,3 @@ console.log(title)
 
 
 
-// typeof usage
-
