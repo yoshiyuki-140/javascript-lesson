@@ -1,4 +1,4 @@
-
+// decimal.jsの使い方
 
 // decimal.js install
 let Decimal = require('decimal.js');
