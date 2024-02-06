@@ -1,5 +1,6 @@
 // delete usage
 
+// START
 let data = ['Python', 'PHP', 'JavaScript']
 
 
@@ -31,7 +32,9 @@ console.log(langs)
 let title = 'Vue.js本格入門'
 console.log(delete title)
 console.log(title)
+// END
 
 
 
 // typeof usage
+
