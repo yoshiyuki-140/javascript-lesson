@@ -18,3 +18,12 @@ let diamond = new Function(param, formula);
 
 console.log(diamond(5, 2));
 
+// 関数リテラルでの定義
+
+getTriangleArea = function (base, height) {
+  return base * height / 2;
+}
+
+console.log(getTriangleArea(10, 4))
+
+
