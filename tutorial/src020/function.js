@@ -22,8 +22,15 @@ console.log(diamond(5, 2));
 
 getTriangleArea = function (base, height) {
   return base * height / 2;
-}
+};
 
 console.log(getTriangleArea(10, 4))
 
 
+// アロー関数による定義
+
+getTriangleArea = (base, height) => {
+  return base * height / 2;
+};
+
+console.log(getTriangleArea(10, 2));
